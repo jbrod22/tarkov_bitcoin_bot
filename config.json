@@ -1,0 +1,19 @@
+{
+    "locations": {
+        "windows_button": [25, 1418],
+        "launcher_play": [1679, 989],
+        "hideout": [1276, 1166],
+        "bitcoin_generator": [1341, 390],
+        "get_all": [2123, 988],
+        "main_menu": [151, 1415],
+        "exit_menu_button": [1270, 1275],
+        "confirm_exit": [1111, 775]
+    },
+    "sleep_time": {
+        "launcher_wait": 5,
+        "application_wait": 65,
+        "loading_hideout": 10,
+        "loading_bitcoin": 5,
+        "collect_bitcoin": 1
+    }
+}
