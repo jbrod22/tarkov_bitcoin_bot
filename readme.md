@@ -1,6 +1,10 @@
-install python
+### Installing 
+
+install python. either through Chocolatey or whatever
 
 `pip install pyautogui`
+
+### Configure
 
 change the x, y coords in config.json to match
 1. Windows button on bottom left of screen
