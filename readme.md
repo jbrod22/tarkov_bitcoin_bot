@@ -1,5 +1,6 @@
 install python
-pip install pyautogui
+
+`pip install pyautogui`
 
 change the x, y coords in config.json to match
 1. Windows button on bottom left of screen
