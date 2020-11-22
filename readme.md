@@ -21,3 +21,5 @@ sleep times are a simply way of adding delays for when the game is loading.
 example: for my game the hideout button is available approx 65 seconds after I hit the play button on the launcher. so i set the `application_wait` timer to 65 seconds. your game may vary so do your due diligence and use a stop watch. it wont hurt to add 5, 10 or even 15 seconds to the delay at any point 
 
 can add to windows task scheduler to _truly_ automate it
+## Automate
+Windows Task Scheduler > New Task > Set up the triggers the way you want mine is below > Actions > Program/Script = C:\Windows\System32\cmd.exe > Arguments = /c start "" "location of start.bat"
