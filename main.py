@@ -46,7 +46,7 @@ class Tarkov_Bot:
         print("Completed")
 
 def main():
-    with open('config.json') as f:
+    with open('.\\config.json', 'r') as f:
         config = json.load(f)
     bot = Tarkov_Bot(config)
     bot.execute()

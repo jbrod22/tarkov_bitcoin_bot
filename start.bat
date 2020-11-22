@@ -1,0 +1,1 @@
+"C:\Python27\python.exe" "C:\Source Code\python\tarkov_bot\main.py"
